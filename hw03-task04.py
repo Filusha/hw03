@@ -11,10 +11,7 @@
 # 
 
 def fn_exponentiation1(pn_number, pn_power):
-#    if pn_power < 0:
     vn_result = pn_number ** pn_power
-#    else:
-#        vn_result = pn_number ** pn_power
 
     return vn_result
 
