@@ -1,2 +1,5 @@
-# hw03
-homework lesson 03
+# Факультет
+# Geek University аналитики Big Data
+# курс "Основы языка Python"
+Филипенков Виктор
+Практическое задание №3
